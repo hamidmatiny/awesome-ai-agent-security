@@ -153,7 +153,7 @@ MCP lets agents connect to external tools and data. Every tool description and t
 ### Runtime Guardrails & Firewalls
 
 - ⭐🛠️ [LLM Guard (Protect AI)](https://github.com/protectai/llm-guard) — 15 input + 20 output scanners: injection, PII, secrets, toxicity. MIT.
-- 🛠️ [AEGIS](https://github.com/hamidmatiny/aegis) — Open-source LLM security gateway with agent-gate tool permissioning, Ed25519 audit trail, and published adaptive red-team results (not round-1-only)
+- 🛠️ [AEGIS](https://github.com/hamidmatiny/aegis) — Open-source LLM security gateway with agent-gate tool permissioning, Ed25519 audit trail, and published adaptive red-team results (not round-1-only). Apache-2.0.
 - 🛠️ [NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA-NeMo/Guardrails) — Programmable input/dialog/retrieval/output rails for conversational LLMs. Apache-2.0.
 - 🛠️ [Guardrails AI](https://github.com/guardrails-ai/guardrails) — Input/output guards with 100+ validators and structured generation. Apache-2.0.
 - 🛠️ [Vigil-LLM](https://github.com/deadbits/vigil-llm) — Injection/jailbreak detector using vector DB, YARA signatures, and canary tokens.
